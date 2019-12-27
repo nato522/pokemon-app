@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# private information
+/src/data
+
 # testing
 /coverage
 
